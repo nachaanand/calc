@@ -8,12 +8,6 @@ body {
     width: 168px;
 }
 
-/*input::-webkit-outer-spin-button,
-        input::-webkit-inner-spin-button {
-               -webkit-appearance: none;
-                margin: 0;   
-        }*/
-
 .dot {
 	width: 10px;
 	height: 10px;
